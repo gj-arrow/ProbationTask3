@@ -1,0 +1,6 @@
+﻿<xml>
+  <firtstSql>FirstQuery.sql</firtstSql>
+  <secondSql>SecondQuery.sql</secondSql>
+  <thirdSql>ThirdQuery.sql</thirdSql>
+  <fourthSql>FourthQuery.sql</fourthSql>
+</xml>
